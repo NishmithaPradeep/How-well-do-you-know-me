@@ -49,5 +49,5 @@ for(var i=0;i<nishArray.length;i++)
   {
     letsPlay(nishArray[i].question,nishArray[i].answer);
   }
-console.log("conratulations " + userName+"...you scored " + score + "/5");
+console.log(userName+"...you scored " + score + "/5");
 
